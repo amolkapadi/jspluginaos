@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.underline{
+  width: 200px;
+  height: 4px;
+  background-color: red;
+  margin: auto;
+}
+.col-md-6{
+  margin-bottom: 80PX;
+}
+.img-fluid{
+  height: 380px!important;
+  width:100% ;
+}
+.btn-success{
+  border-radius: 0!important;
+}
+p{
+  text-align: justify;
+}
